@@ -4,9 +4,9 @@ if(a%2==0)
   {
     if(a%3==0||a%7==0||a%11==0)
      {
-       printf("prime number");
+       printf("not a prime number");
      }
   }
  else
-  printf("Not a prime number");
+  printf("prime number");
   
